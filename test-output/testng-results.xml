@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37779" started-at="2020-05-06T09:27:45Z" finished-at="2020-05-06T09:28:22Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="37779" started-at="2020-05-06T09:27:45Z" finished-at="2020-05-06T09:28:22Z">
+      <class name="org.temp.Task1">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:org.temp.Task1@be92ad]" name="launchBrowser" is-config="true" duration-ms="26839" started-at="2020-05-06T14:57:45Z" finished-at="2020-05-06T14:58:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="testcase2(java.lang.String)[pri:0, instance:org.temp.Task1@be92ad]" name="testcase2" duration-ms="10914" started-at="2020-05-06T14:58:12Z" finished-at="2020-05-06T14:58:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Iphone]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase2 -->
+      </class> <!-- org.temp.Task1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
